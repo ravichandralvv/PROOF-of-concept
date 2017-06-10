@@ -1,3 +1,4 @@
 # PROOF-of-concept
-working on changes
-Raj & Ravi working on these changes
+working on new concepts
+Ravi created pipeline job (sequence of jobs)
+------*****************---------
